@@ -1,18 +1,21 @@
 **Algo – Exercices Séquence**
 
 - 1 Inversion du contenu de deux variables
+  
 Faîtes saisir une première variable nommée v1, de type entier, et affichez-la.
 Faîtes saisir une deuxième variable nommée v2, de type entier, et affichez-la.
 Inversez le contenu des deux variables et affichez les deux variables une fois qu’elles sont
 inversées.
 
 + 2 Calculs HT, TVA et TTC
+  
 Faîtes saisir un montant hors-taxes de type réel, et affichez-le.
 Faîtes saisir un taux de TVA de type réel, et affichez-le.
 Calculez le montant de la TVA de type réel, et affichez-le.
 Calculez le montant TTC de type réel, et affichez-le.
 
 + 3 Notes
+  
 Faîtes saisir une note sur 20, de type réel.
 Convertissez cette note en lettre selon le tableau ci-dessous et affichez la lettre qui correspond
 à la note.
@@ -23,6 +26,7 @@ Note <= 5 Lettre E
 14 < Note Lettre A
 
 + 4 Calculs HT et remises
+  
 Faîtes saisir une quantité de produits de type réel, et affichez la.
 Faîtes saisir un prix unitaire hors-taxes de type réel, et affichez le.
 Calculez le montant total hors-taxes de type réel, et affichez-le.
@@ -37,6 +41,7 @@ Calculez le montant TTC de type réel et affichez-le.
 
 
 + 5 Comparaison de 2 offres téléphoniques.
+  
 Vous êtes opérateur téléphonique et vous proposez deux offres à vos clients.
 1
 ère offre : coût fixe de 10 euros + coût variable de 0.05 euros par minute consommée
@@ -46,6 +51,7 @@ Demandez à votre client quelle est sa consommation habituelle en minutes et pro
 l’offre la plus avantageuse pour lui.
 
 + 6 Calcul d’une facture selon le nombre de photocopies effectuées (calculs par paliers).
+  
 Voici comment sont facturées les photocopies dans un service de reproduction.
 Les 10 premières photocopies sont facturées au prix de 0.1 euro par photocopie.
 Entre 11 et 20 photocopies : les 10 premières sont au prix de 0.1 euros par photocopie, les
@@ -60,6 +66,7 @@ Faites saisir un nombre de photocopies et affichez-le.
 Calculez le montant de la facture correspondante et affichez-le.
 
 + 7 Augmentation des tarifs
+  
 Faites saisir un prix unitaire de produit, type réel.
 Calculez le nouveau prix unitaire selon le tableau ci-dessous.
 Prix unitaire Pourcentage d’augmentation
@@ -68,8 +75,9 @@ Prix unitaire Pourcentage d’augmentation
 50<= prix <100 5 %
 100 <= prix 2,5 %
 
-Page 3 sur 3
+
 8 Délais de livraison
+
 Faîtes saisir une quantité de produits, type entier.
 Faîtes choisir à l’utilisateur un mode de livraison : rapide ou normal.
 Indiquez le délai de livraison correspondant à vos données selon le tableau ci-dessous.
@@ -79,6 +87,7 @@ Quantité de Produits Livraison rapide Livraison normale
 100 <= quantité 5 jours 7 jours
 
 + 9 Test de dates
+  
 Faîtes saisir deux dates.
 Chaque date doit être saisie en remplissant d’abord le jour, puis le mois et enfin l’année.
 A l’aide d’un algorithme, déterminez quelle est la date la plus récente des deux.
